@@ -1,0 +1,114 @@
+[03-Nov-2017 08:19:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 8
+[03-Nov-2017 08:25:38 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'dramarsr_shakti'@'localhost' to database 'dramarsr_register' in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 08:26:54 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://http://www.dramarsrivastav.com' (2) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 08:27:26 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://www.dramarsrivastav.com' (2) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 08:28:00 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'dramarsr_shakti'@'162.222.225.153' to database 'dramarsr_register' in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 08:29:46 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'dramarsr_shakti'@'162.222.225.153' to database 'dramarsr_register' in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:18:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'shakti'@'bh-71.webhostbox.net' (using password: YES) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:20:57 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'bh-71.webhostbox.net' (using password: YES) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:21:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'bh-71.webhostbox.net' (using password: YES) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:21:43 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'dramarsr_root'@'bh-71.webhostbox.net' to database 'dramarsr_register' in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:22:01 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'dramarsr_root'@'bh-71.webhostbox.net' to database 'dramarsr_register' in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:22:03 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'dramarsr_root'@'bh-71.webhostbox.net' to database 'dramarsr_register' in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:23:11 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'bh-71.webhostbox.net' (using password: NO) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:24:00 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'bh-71.webhostbox.net' (using password: NO) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:24:15 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'bh-71.webhostbox.net' (using password: NO) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:24:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'bh-71.webhostbox.net' (using password: NO) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:35:01 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'shakti'@'bh-71.webhostbox.net' (using password: YES) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:52:47 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'shakti'@'bh-71.webhostbox.net' (using password: YES) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:52:52 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'shakti'@'bh-71.webhostbox.net' (using password: YES) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:53:11 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'shakti'@'bh-71.webhostbox.net' (using password: YES) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:53:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'shakti'@'localhost' (using password: YES) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[03-Nov-2017 09:53:42 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'shakti'@'bh-71.webhostbox.net' (using password: YES) in /home/dramarsr/public_html/shakti-patient-rec/db.php on line 3
+[04-Nov-2017 05:41:55 Etc/GMT] PHP Notice:  Undefined index: id in /home/dramarsr/public_html/shakti-patient-rec/delete.php on line 5
+[04-Nov-2017 05:41:55 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/dramarsr/public_html/shakti-patient-rec/delete.php on line 7
+[10-Nov-2017 01:58:21 Etc/GMT] PHP Notice:  Undefined index: id in /home/dramarsr/public_html/shakti-patient-rec/delete.php on line 5
+[10-Nov-2017 01:58:21 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/dramarsr/public_html/shakti-patient-rec/delete.php on line 7
+[02-Dec-2017 08:19:29 Etc/GMT] PHP Notice:  Undefined index: id in /home/dramarsr/public_html/shakti-patient-rec/delete.php on line 5
+[02-Dec-2017 08:19:29 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/dramarsr/public_html/shakti-patient-rec/delete.php on line 7
+[10-Dec-2017 15:35:52 Etc/GMT] PHP Notice:  Undefined index: id in /home/dramarsr/public_html/shakti-patient-rec/delete.php on line 5
+[10-Dec-2017 15:35:52 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/dramarsr/public_html/shakti-patient-rec/delete.php on line 7
+[21-Dec-2017 05:18:31 Etc/GMT] PHP Notice:  Undefined index: id in /home/dramarsr/public_html/shakti-patient-rec/delete.php on line 5
+[21-Dec-2017 05:18:31 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/dramarsr/public_html/shakti-patient-rec/delete.php on line 7
+[05-Jan-2018 05:19:18 Etc/GMT] PHP Notice:  Undefined index: id in /home/dramarsr/public_html/shakti/delete.php on line 5
+[05-Jan-2018 05:19:18 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/dramarsr/public_html/shakti/delete.php on line 7
+[12-Feb-2018 08:06:33 Etc/GMT] PHP Notice:  Undefined index: id in /home/dramarsr/public_html/shakti/delete.php on line 5
+[12-Feb-2018 08:06:33 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/dramarsr/public_html/shakti/delete.php on line 7
+[11-Apr-2018 16:48:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:48:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:48:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:29 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:29 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:49:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 63
+[11-Apr-2018 16:50:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:50:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:50:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:50:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:51:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:51:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:51:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:51:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:51:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:51:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:51:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:51:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:51:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[11-Apr-2018 16:51:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dramarsr/public_html/shakti/fetch.php on line 65
+[05-Jun-2018 03:19:28 Etc/GMT] PHP Notice:  Undefined index: id in /home/dramarsr/public_html/shakti/delete.php on line 5
+[05-Jun-2018 03:19:28 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/dramarsr/public_html/shakti/delete.php on line 7
+[16-Jul-2018 12:05:14 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dramarsr/public_html/shakti/fetch_by_name.php on line 4
+[16-Jul-2018 12:05:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dramarsr/public_html/shakti/fetch_by_name.php on line 21
+[16-Jul-2018 12:05:14 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dramarsr/public_html/shakti/fetch_by_name.php on line 22
+[11-Jan-2019 06:10:32 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/dramarsr/public_html/shakti/export.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dramarsr/public_html/shakti/export.php on line 2
+[11-Jan-2019 06:10:39 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/dramarsr/public_html/shakti/export.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dramarsr/public_html/shakti/export.php on line 2
+[11-Jan-2019 06:26:03 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/dramarsr/public_html/shakti/export.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dramarsr/public_html/shakti/export.php on line 2
+[11-Jan-2019 06:28:54 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/dramarsr/public_html/shakti/export.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dramarsr/public_html/shakti/export.php on line 2
+[11-Jan-2019 06:32:30 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/dramarsr/public_html/shakti/export.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dramarsr/public_html/shakti/export.php on line 2
+[21-Jan-2019 09:59:28 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/dramarsr/public_html/shakti/export.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dramarsr/public_html/shakti/export.php on line 2
+[05-Sep-2019 07:40:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dramarsr/public_html/clinic/insert.php on line 21
+[05-Sep-2019 07:40:43 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/dramarsr/public_html/clinic/insert.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dramarsr/public_html/clinic/insert.php on line 31
