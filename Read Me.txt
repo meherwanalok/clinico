@@ -29,6 +29,3 @@ CREATE TABLE IF NOT EXISTS register.`new_record` (
  `submittedby` varchar(50) NOT NULL,
  PRIMARY KEY (`id`)
  );
-
-Source: http://www.allphptricks.com/
-Javed Ur Rehman
