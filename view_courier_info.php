@@ -50,6 +50,7 @@ include("auth.php");
 	<th><strong>Total Amount</strong></th>
 	
 	<th><strong>Edit</strong></th>
+	<th><strong>Delete</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -79,6 +80,7 @@ while($row = mysqli_fetch_assoc($result)) { ++$count; ?>
 	?>
 	</td>
 <td><a href="edit_courier_info.php?pid=<?php echo $row["pid"]; ?>">Edit</a></td>
+<td><a href="delete_courier_info.php?pid=<?php echo $row["pid"]; ?>" onclick="return confirm('Are you sure, you wish to delete this info?')">Delete</a></td>
 
 </tr>
 <?php } ?>
