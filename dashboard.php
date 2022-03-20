@@ -104,6 +104,19 @@ include("auth.php"); //include auth.php file on all secure pages ?>
                         <p>Send SMS to Patient</p>
                     </a>
                 </li>
+				                <li>
+                    <a href="Courier_info.php">
+                        <i class="pe-7s-news-paper"></i>
+                        <p>Enter Courier Info</p>
+                    </a>
+                </li>
+				                <li>
+                    <a href="view_courier_info.php">
+                        <i class="pe-7s-news-paper"></i>
+                        <p>View Courier Info</p>
+                    </a>
+                </li>
+				
               <li>
                     <a href="logout.php">
                         <i class="pe-7s-map-marker"></i>
